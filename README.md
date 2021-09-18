@@ -14,7 +14,7 @@
 
 - Clone this repo
 ```
-git clone https://github.com/viperadnan-git/eagle-telegram-bot
+git clone https://github.com/ToxicDeeModder1/eagle-telegram-bot
 ```
 - Change directory
 ```
